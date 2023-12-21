@@ -8,11 +8,11 @@ html {
 }
 
 body {
+    background: url(../images/bg-desktop.svg) no-repeat;
+    background-size: cover;
     min-width: 375px;
     max-width: 1440px;
     max-height: 100vh;
-    background: url(../images/bg-desktop.svg) no-repeat;
-    background-size: cover;
 }
 
 .header {
